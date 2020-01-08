@@ -1,7 +1,7 @@
 import React from 'react';
 import ComponentE from './ComponentE';
 
-const CompnentC = () => {
+const ComponentC = () => {
     return (
         <div>
             <ComponentE />
@@ -9,4 +9,4 @@ const CompnentC = () => {
     );
 }
 
-export default CompnentC;
+export default ComponentC;
